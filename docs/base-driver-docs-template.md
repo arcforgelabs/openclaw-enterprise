@@ -16,3 +16,4 @@ the existing base contract. Base contracts belong in
 and backend-specific troubleshooting remain in implementation references.
 See the [ComputeDriver contract](reference/drivers/compute.md) for an applied
 example.
+
